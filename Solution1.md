@@ -6,5 +6,6 @@ Find the logic or a string that matches the code where user loses health or for 
 
 Use the cheat sheet for assembly and change the sub to add
 
-![Alt Text](solution 1.png)
 
+
+![Screenshot from 2024-01-29 14-52-43](https://github.com/maltin1234/ReverseEngineering/assets/37213559/ca387aa1-8b52-48e9-8220-698b37f8fc74)
